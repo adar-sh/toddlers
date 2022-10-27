@@ -5,9 +5,9 @@
 Tell us about your project here
 
 ## Team Members
-[1.ADARSH K](adar-sh)   
-[2.ABHIMANYU S](Manuelmastro)   
-[3.NIDHIN CHANDRAN](NidhinChandran47)   
+[1.ADARSH K](https://github.com/adar-sh)   
+[2.ABHIMANYU S](https://github.com/Manuelmastro)   
+[3.NIDHIN CHANDRAN](https://github.com/NidhinChandran47)   
   
 
 ## Link to Project
